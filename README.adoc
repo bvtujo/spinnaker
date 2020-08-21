@@ -3,7 +3,7 @@
 image:http://join.spinnaker.io/badge.svg[Slack Status,link=http://join.spinnaker.io]
 image:https://travis-ci.org/spinnaker/spinnaker.svg?branch=master["Build Status", link="https://travis-ci.org/spinnaker/spinnaker"]
 
-= Welcome to the Spinnaker Project
+= Welcome to the Spinnaker Sail
 
 Spinnaker is an open-source continuous delivery platform for releasing software changes with high velocity and confidence.
 Through a powerful abstraction layer, Spinnaker provides compelling tooling that empowers developers to own their application code from commit to delivery. As the most mature and widely productionalized continuous delivery platform, Spinnaker can apply the expertise of Netflix, Google, Microsoft,
